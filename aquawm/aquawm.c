@@ -847,7 +847,7 @@ int is_likely_dock(AquaWm *wm, Window window) {
     if (title) {
         const char *dock_names[] = {
             "panel", "Panel", "xfce4-panel", "mate-panel", 
-            "gnome-panel", "tint2", "polybar", "aqua-menu", "aquapanel",
+            "gnome-panel", "tint2", "polybar", "aquapanel",
             "xmobar", "lemonbar", "vala-panel", "plank", "dock"
         };
         
