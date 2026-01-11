@@ -15,6 +15,7 @@ NOTE: windows are not torn from the window frame for security measures.
 # Run
 Add aquawm file in your xsessions directory.
 Or simply run it via startx:
+    
     <.xinitrc>
     exec aquawm
  
